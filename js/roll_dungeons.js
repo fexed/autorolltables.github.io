@@ -60,7 +60,7 @@ top.dungeons = [
   "Aboleth.",
   "Drago Blu.",
   "Kraken.",
-  "Maridan prince.",
+  "Principe Maridan.",
   "Gigante della Tempesta.",
   "Stregone delle Tempeste.",   ]},
    {"title": "d6 Trappole/pericoli Devi sopravvivere a…", "id":"d6trapshazardyoumustsurvivethe…_elementalwaterdungeon", "roll":[
@@ -79,62 +79,62 @@ top.dungeons = [
   "Una principessa sirena imprigionata.",   ]},
   
 
-  {"title": "d6 This place is a...", "id":"d6thisplaceisa_elementalfiredungeon", "roll":[
- "Volcanic mountain.",
- "Series of geothermal vents deep underground.",
- "Stronghold built by beings of flame.",
- "Temple dedicated to a fiery god.",
- "Palace built by a fire elemental lord.",
- "Enormous forge or armory gone wrong.",   ]},
-  {"title": "d6 Air quality The air in the chambers in here is…", "id":"d6airqualitytheairinthechambersinhereis…_elementalfiredungeon", "roll":[
- "Filled with choking ash.",
- "Filled with hot ash.",
- "Filled with choking smoke.",
- "Filled with dark smoke.",
- "Uncomfortably hot.",
- "Filled with poisonous gas.",   ]},
-  {"title": "d6 Major feature You see a/an...", "id":"d6majorfeatureyouseeaan_elementalfiredungeon", "roll":[
- "Over-sized brazier.",
- "Large iron sculpture.",
- "Altar to a fiery god.",
- "Rack of iron spears or steel scimitars.",
- "Charred skeleton of a mortal.",
- "Fountain of smoke and flame.",   ]},
-  {"title": "d6 Minor feature You notice a/an...", "id":"d6minorfeatureyounoticeaan_elementalfiredungeon", "roll":[
- "Wisp of smoke.",
- "Scent of brimstone.",
- "Icon of a fiery god.",
- "Charred wooden object.",
- "Scorch marks on the wall.",
- "Iron wall sconce with a torch.",   ]},
-  {"title": "d6 NPC You meet a/an…", "id":"d6npcyoumeetaan…_elementalfiredungeon", "roll":[
- "Half-mad elemental cultist.",
- "Escaped mortal slave.",
- "Intrepid dwarvish prospector.",
- "Wayward warlock.",
- "Hermetic monk.",
- "Half-fiend scholar.",   ]},
-  {"title": "d6 Beast You meet a…", "id":"d6beastyoumeeta…_elementalfiredungeon", "roll":[
- "Fire bat.",
- "Swarm of fire beetles.",
- "Flame drake.",
- "Fiendish hyena.",
- "Flame snake.",
- "Fiendish stirge.",   ]},
-  {"title": "d6 Secondary monster You come upon a/an…", "id":"d6secondarymonsteryoucomeuponaan…_elementalfiredungeon", "roll":[
+  {"title": "d6 Questo posto è un/una...", "id":"d6thisplaceisa_elementalfiredungeon", "roll":[
+ "Montagna vulcanica.",
+ "Serie di aperture geotermiche nelle profondità.",
+ "Fortezza costruita da un'entità delle fiamme.",
+ "Tempio dedicato ad un dio feroce.",
+ "Palazzo costruito da un lord elementale del fuoco.",
+ "Enorme forgia o armeria finita male.",   ]},
+  {"title": "d6 Qualità dell'Aria L'aria in queste stanze è…", "id":"d6airqualitytheairinthechambersinhereis…_elementalfiredungeon", "roll":[
+ "Piena di cenere soffocante.",
+ "Piena di cenere incandescente.",
+ "Piena di fumo strozzante.",
+ "Piena di fumo nero.",
+ "Incomfortabilmente calda.",
+ "Riempita di gas velenosi.",   ]},
+  {"title": "d6 Caratterista maggiore Vedi un/una...", "id":"d6majorfeatureyouseeaan_elementalfiredungeon", "roll":[
+ "Braciere enorme.",
+ "Grande scultura di ferro.",
+ "Altare ad un dio feroce.",
+ "Rastrelliera di lance di ferro o di scimitarre d'acciaio.",
+ "Scheletro carbonizzato di un mortale.",
+ "Fontana di fumo e fiamme.",   ]},
+  {"title": "d6 Caratteristica minore Noti un/una...", "id":"d6minorfeatureyounoticeaan_elementalfiredungeon", "roll":[
+ "Fascio di fumo.",
+ "Odore di zolfo.",
+ "Icona di un dio feroce.",
+ "Oggetto di legno carbonizzato.",
+ "Segni di bruciature sui muri.",
+ "Applique da parete in ferro con una torcia.",   ]},
+  {"title": "d6 NPC Incontri un/una…", "id":"d6npcyoumeetaan…_elementalfiredungeon", "roll":[
+ "Cultista elementale mezzo matto.",
+ "Schiavo mortale fuggitivo.",
+ "Intrepido prospettore nano.",
+ "Warlock ribelle.",
+ "Monaco eremita.",
+ "Studioso metà-demone.",   ]},
+  {"title": "d6 Bestie Incontri un/una…", "id":"d6beastyoumeeta…_elementalfiredungeon", "roll":[
+ "Pipistrello di fuoco.",
+ "Sciame di scarafaggi di fuoco.",
+ "Drake di fuoco.",
+ "Iena demoniaca.",
+ "Serpente di fuoco.",
+ "Stirge di fuoco.",   ]},
+  {"title": "d6 Mostro secondario Ti imbatti in un/una…", "id":"d6secondarymonsteryoucomeuponaan…_elementalfiredungeon", "roll":[
  "Azer.",
  "Gnoll.",
- "Fire elemental.",
- "Hell hound.",
- "Salamander.",
- "Flaming skeleton.",   ]},
-  {"title": "d6 Primary monster This place is currently ruled by a/an…", "id":"d6primarymonsterthisplaceiscurrentlyruledbyaan…_elementalfiredungeon", "roll":[
- "Scheming devil.",
- "Efreet prince.",
- "Fire demon.",
- "Fire giant.",
- "Evil pyromancer.",
- "Red dragon.",   ]},
+ "Elementale di fuoco.",
+ "Segugio infernale.",
+ "Salamandra.",
+ "Scheletro coperto di fiamme.",   ]},
+  {"title": "d6 Mostro primario Questo posto è attualmente controllato da un/una…", "id":"d6primarymonsterthisplaceiscurrentlyruledbyaan…_elementalfiredungeon", "roll":[
+ "Demone furbo.",
+ "Principe Efreet.",
+ "Demone di fuoco.",
+ "Gigante di fuoco.",
+ "Malvagio piromante.",
+ "Drago Rosso.",   ]},
   {"title": "d6 Traps/hazard You must survive the…", "id":"d6trapshazardyoumustsurvivethe…_elementalfiredungeon", "roll":[
  "Sealing chamber that fills with poisonous gas.",
  "Sudden and sporadic walls of flame.",
@@ -151,7 +151,7 @@ top.dungeons = [
  "Captive phoenix.",   ]},
 
 
-  {"title": "d6 This place is a...", "id":"d6thisplaceisa_elementalearthdungeon", "roll":[
+  {"title": "d6 Questo posto è un/una...", "id":"d6thisplaceisa_elementalearthdungeon", "roll":[
  "Palace built by an earth elemental lord.",
  "Temple dedicated to an earth god.",
  "Stronghold built by beings of elemental earth.",
@@ -223,7 +223,7 @@ top.dungeons = [
  "Captive demon.",   ]},
 
 
- {"title": "d6 This place is a...", "id":"d6thisplaceisa_elementalairdungeon", "roll":[
+ {"title": "d6 Questo posto è un/una...", "id":"d6thisplaceisa_elementalairdungeon", "roll":[
 "Palace built by an air elemental lord.",
 "Series of caves in a floating earth mote.",
 "Series of deep tunnels with constant, howling wind.",
