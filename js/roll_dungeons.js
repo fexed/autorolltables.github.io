@@ -135,20 +135,20 @@ top.dungeons = [
  "Gigante di fuoco.",
  "Malvagio piromante.",
  "Drago Rosso.",   ]},
-  {"title": "d6 Traps/hazard You must survive the…", "id":"d6trapshazardyoumustsurvivethe…_elementalfiredungeon", "roll":[
- "Sealing chamber that fills with poisonous gas.",
- "Sudden and sporadic walls of flame.",
- "Collapsing ceiling.",
- "Explosive bursts of fire and rock.",
- "False-floor pit trap.",
- "Whirling blades trap.",   ]},
-  {"title": "d6 Reward/treasure If you survive, you may find a/an...", "id":"d6rewardtreasureifyousurviveyoumayfindaan_elementalfiredungeon", "roll":[
- "Notorious bandit’s treasure hoard.",
- "Wand of elemental power.",
- "Ancient weapon forged of fire and steel.",
- "Crystal that offers glimpses of the future.",
- "Genie bound to a lamp.",
- "Captive phoenix.",   ]},
+  {"title": "d6 Trappole/pericoli Devi sopravvivere a…", "id":"d6trapshazardyoumustsurvivethe…_elementalfiredungeon", "roll":[
+ "Camera sigillante che si riempie di gas velenoso.",
+ "Improvvisi e sporadici muri di fuoco.",
+ "Soffitti che crollano.",
+ "Esplosioni di fuoco e roccia.",
+ "Trappole a pavimento finto con fossa sottostante.",
+ "Trappole a lame rotanti.",   ]},
+  {"title": "d6 Tesoro/Premio Se sopravvivi, potresti trovare...", "id":"d6rewardtreasureifyousurviveyoumayfindaan_elementalfiredungeon", "roll":[
+ "Il tesoro di un noto bandito.",
+ "Bacchetta dal potere elementale.",
+ "Un'antica arma forgiata nel fuoco e nell'acciaio.",
+ "Cristalli che offrono uno scorcio nel futuro.",
+ "Genio legato ad una lampada.",
+ "Fenice imprigionata.",   ]},
 
 
   {"title": "d6 Questo posto è un/una...", "id":"d6thisplaceisa_elementalearthdungeon", "roll":[
@@ -207,14 +207,14 @@ top.dungeons = [
  "Powerful geomancer.",
  "Lich.",
  "Grick alpha.",   ]},
-  {"title": "d6 Traps/hazard You must survive the…", "id":"d6trapshazardyoumustsurvivethe…_elementalearthdungeon", "roll":[
+  {"title": "d6 Trappole/pericoli Devi sopravvivere a…", "id":"d6trapshazardyoumustsurvivethe…_elementalearthdungeon", "roll":[
  "Pits of stinking mud.",
  "Crushing walls trap.",
  "Kissing maidens trap.",
  "Spears-from-the-floor trap.",
  "Crumbling bridges and arches.",
  "Collapsing ceilings.",   ]},
-  {"title": "d6 Reward/treasure If you survive, you may find a/an...", "id":"d6rewardtreasureifyousurviveyoumayfindaan_elementalearthdungeon", "roll":[
+  {"title": "d6 Tesoro/Premio Se sopravvivi, potresti trovare...", "id":"d6rewardtreasureifyousurviveyoumayfindaan_elementalearthdungeon", "roll":[
  "Notorious necromancer’s spellbook.",
  "Orb of elemental power.",
  "Storied vein of precious ore (gold, platinum, adamantine, or mithral).",
@@ -279,14 +279,14 @@ top.dungeons = [
 "Evil entropomancer.",
 "Beholder.",
 "Wraith.",   ]},
- {"title": "d6 Traps/hazard You must survive the…", "id":"d6trapshazardyoumustsurvivethe…_elementalairdungeon", "roll":[
+ {"title": "d6 Trappole/pericoli Devi sopravvivere a…", "id":"d6trapshazardyoumustsurvivethe…_elementalairdungeon", "roll":[
 "Trap door to a tremendous fall.",
 "Poisoned dart trap.",
 "Magic crossbow turret trap.",
 "Runes that explode in bursts of lightning.",
 "Sealing chamber that turns into a vacuum.",
 "Curse of listlessness.",   ]},
- {"title": "d6 Reward/treasure If you survive, you may find a/an...", "id":"d6rewardtreasureifyousurviveyoumayfindaan_elementalairdungeon", "roll":[
+ {"title": "d6 Tesoro/Premio Se sopravvivi, potresti trovare...", "id":"d6rewardtreasureifyousurviveyoumayfindaan_elementalairdungeon", "roll":[
 "Infamous giant’s treasure hoard.",
 "Wreck of a legendary airship.",
 "Rod of elemental power.",
