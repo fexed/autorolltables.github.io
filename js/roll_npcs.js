@@ -6,27 +6,27 @@ top.npcs = [
 
 
 
-{"title": "d6 The treasure hunter is...", "id":"d6thetreasurehunteris_treasurehunter", "roll":[
-"A veteran dungeon delver.",
-"A desperate thief.",
-"A reckless fortune seeker.",
-"A well-known adventurer.",
-"A brash, young fool.",
-"A student of history.",   ]},
-{"title": "d6 The treasure hunter has...", "id":"d6thetreasurehunterhas_treasurehunter", "roll":[
-"A long, hooked nose.",
-"A cute little button nose.",
-"A scar below the left eye.",
-"Pockmarked cheeks.",
-"High cheek bones.",
-"A pointy chin.",   ]},
-{"title": "d6 The treasure hunter...", "id":"d6thetreasurehunter_treasurehunter", "roll":[
-"Hums or sings while walking.",
-"Constantly brushes the hair back from out of his or her face.",
-"Laughs maniacally at everything.",
-"Never smiles and never laughs.",
-"Scratches the elbow frequently.",
-"Picks at his or her teeth after meals.",   ]},
+{"title": "d6 Il cacciatore di tesori è...", "id":"d6thetreasurehunteris_treasurehunter", "roll":[
+"Un esploratore di dungeon veterano..",
+"Un ladro disperato.",
+"Un cercatore di fortuna senza scrupoli.",
+"Un avventuriero ben conosciuto.",
+"Un giovane insolente.",
+"Uno studente di storia.",   ]},
+{"title": "d6 Il cacciatore di tesori ha...", "id":"d6thetreasurehunterhas_treasurehunter", "roll":[
+"Un lungo naso ad uncino",
+"Un naso piccolo e carino.",
+"Una cicatrice sotto l'occhio sinistro.",
+"Guance butterate.",
+"Zigomi prominenti.",
+"Un mento appuntito.",   ]},
+{"title": "d6 Il cacciatore di tesori...", "id":"d6thetreasurehunter_treasurehunter", "roll":[
+"Canticchia o fischietta mentre cammina.",
+"Sposta continuamente i capelli dalla sua faccia.",
+"Ride in maniera maniacale a qualsaisi cosa.",
+"Non sorride e non ride mai.",
+"Si gratta spesso il gomito.",
+"Si pulisce i denti con le dita dopo aver mangiato.",   ]},
 {"title": "d12 The treasure hunter wears...", "id":"d12thetreasurehunterwears_treasurehunter", "roll":[
 "A nose ring.",
 "A dark red cape.",
